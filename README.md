@@ -1,8 +1,7 @@
 ## Hi there
 
-I'm **Sheba Reji**, a final-year Computer Science and Engineering student at **Rajagiri School of Engineering and Technology (RSET)**, Kochi, Kerala.
-
-I’m passionate about leveraging technology to solve real-world problems.I enjoy building intelligent systems that are both impactful and user-friendly.
+I'm **Sheba Reji**, a final-year Computer Science and Engineering student at **Rajagiri School of Engineering and Technology (RSET)**, Kerala.
+I’m passionate about leveraging technology to solve real-world problems. I enjoy building intelligent systems that are both impactful and user-friendly.
 
 ### What I'm Currently Up To:
 - 🔬 Exploring **LangChain**, **Retrieval-Augmented Generation (RAG)**, and **LLMs**
