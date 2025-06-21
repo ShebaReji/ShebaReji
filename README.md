@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**ShebaReji/ShebaReji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sheba Reji**, a final-year Computer Science and Engineering student at **Rajagiri School of Engineering and Technology (RSET)**, Kochi, Kerala.
 
-Here are some ideas to get you started:
+I’m passionate about leveraging technology to solve real-world problems.I enjoy building intelligent systems that are both impactful and user-friendly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Currently Up To:
+- 🔬 Exploring **LangChain**, **Retrieval-Augmented Generation (RAG)**, and **LLMs**
+- 🛠️ Developing AI-powered applications using **Flutter**, **Firebase**, and **Python**
+- 📊 Enhancing my skills in **deep learning**, **model evaluation**, and real-time app integration
+
+### Let's Connect:
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sheba-reji-38182629a/)
+- 📁 Explore my projects here on GitHub
+
+---
+
+> “Technology is best when it brings people together.” – Matt Mullenweg
