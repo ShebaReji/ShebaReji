@@ -12,6 +12,4 @@ I’m passionate about leveraging technology to solve real-world problems. I enj
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sheba-reji-38182629a/)
 - 📁 Explore my projects here on GitHub
 
----
 
-> “Technology is best when it brings people together.” – Matt Mullenweg
